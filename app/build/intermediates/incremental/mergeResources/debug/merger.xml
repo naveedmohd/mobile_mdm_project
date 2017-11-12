@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res" >
+            <file
+                name="bg_key"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable\bg_key.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="buttonshape"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable\buttonshape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edit"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\edit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_photos_tab"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\icon_photos_tab.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_songs_tab"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\icon_songs_tab.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_videos_tab"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\icon_videos_tab.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="infa"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\infa.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="merge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\merge.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="photos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\photos_gray.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="photos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\photos_white.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="songs_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\songs_gray.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="songs_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\songs_white.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="unmerge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\unmerge.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="videos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\videos_gray.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="videos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-hdpi\videos_white.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edit"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\edit.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="infa"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\infa.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="merge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\merge.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="photos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\photos_gray.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="photos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\photos_white.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="songs_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\songs_gray.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="songs_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\songs_white.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="unmerge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\unmerge.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="videos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\videos_gray.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="videos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-ldpi\videos_white.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="edit"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\edit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="infa"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\infa.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="merge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\merge.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\photos_gray.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="photos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\photos_white.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="songs_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\songs_gray.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="songs_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\songs_white.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="unmerge"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\unmerge.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="videos_gray"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\videos_gray.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="videos_white"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\drawable-mdpi\videos_white.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_dialog"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\activity_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_rowidobject"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\activity_rowidobject.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_consumer"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\add_consumer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="merge_records"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\merge_records.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="package_main"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\package_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="photos_layout"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\photos_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pkg_src_tgt_list"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\pkg_src_tgt_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pkg_src_tgt_list_view"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\pkg_src_tgt_list_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="songs_layout"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\songs_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="unmerge_layout"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\unmerge_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="u_list_item"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\u_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="videos_layout"
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\layout\videos_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="dark_red" >#CC0000
+                </color>
+                <color name="dark_yellow" >#FF8A00
+                </color>
+                <color name="light_green" >#D3E992
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="dark_blue" >#0099CC
+                </color>
+                <color name="light_red" >#FFAFAF
+                </color>
+                <color name="dark_green" >#669900
+                </color>
+                <color name="pressed_color" >#4d90fe
+                </color>
+                <color name="light_yellow" >#FFECC0
+                </color>
+                <color name="light_blue" >#A8DFF4
+                </color>
+            </file>
+            <file
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\values\dimensions.xml"
+                qualifiers="" >
+                <dimen name="font_small" >10dp
+                </dimen>
+                <dimen name="font_medium" >24dp
+                </dimen>
+                <dimen name="font_large" >44dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="gender" ></string>
+                <string name="middleName" ></string>
+                <string name="suffix" ></string>
+                <string name="lastName" ></string>
+                <string name="telephone" ></string>
+                <string name="hello" >Hello World, AndroidTabLayoutActivity!
+                </string>
+                <string name="consumerid" ></string>
+                <string name="dialog_text" >Simple Dialog
+                </string>
+                <string name="save" >Save
+                </string>
+                <string name="app_name" >Informatica MDM
+                </string>
+                <string name="dob" ></string>
+                <string name="objectid" ></string>
+                <string name="firstName" ></string>
+                <string name="btn_finish_dialog_label" >Close
+                </string>
+                <string name="btn_start_dialog_label" >Dialog
+                </string>
+                <string name="dialog" >Dialog
+                </string>
+            </file>
+            <file
+                path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <color name="custom_theme_color" >#b0b0ff
+                </color>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\build\generated\res\rs\debug" />
+        <source path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Android_Projects\Android_Workspace\Innovation_Day\app\src\debug\res" />
+    </dataSet>
+
+</merger>

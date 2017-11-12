@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+        <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Consumer Id"
+        android:typeface="monospace"
+        android:textColor="#00FF00"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:textSize="17dip"/>
+    
+	    <EditText android:id="@+id/inputConsumerId"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/consumerid" />    
+		
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"
+        android:text="Suffix"/>
+
+	    <EditText android:id="@+id/inputSuffix"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/suffix" />    
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"
+        android:text="First Name"/>
+
+	    <EditText android:id="@+id/inputFname"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/firstName" />
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="Middle Name"/>
+
+	    <EditText android:id="@+id/inputMname"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/middleName" />
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="Last Name"/>
+
+	     <EditText android:id="@+id/inputLname"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/lastName" />
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="Gender"/>
+
+
+	    <EditText android:id="@+id/inputGender"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/gender" />     
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="Telephone"/>
+
+	    <EditText android:id="@+id/inputTelephone"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/telephone"
+		android:inputType="phone" />
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="Date Of Birth"/>
+
+	    <EditText android:id="@+id/inputDob"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/dob" />
+
+        <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="ObjectId"/>
+
+	    <EditText android:id="@+id/inputObjectId"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:hint="@string/objectid" />    
+	    	    
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_horizontal"
+            >            
+
+   <Button
+		android:id="@+id/btnCreateConsumer"
+		
+		android:text="Create Consumer"
+		android:textColor="#000000"
+		android:textSize="14sp"
+		
+		android:layout_width="180dp"
+		android:layout_height="43dp"
+		android:background="@drawable/buttonshape"
+		android:shadowColor="#A8A8A8"
+		android:shadowDx="0"
+		android:shadowDy="0"
+		android:shadowRadius="5"
+	/>
+   
+   <Button
+		android:id="@+id/btnHome"		
+		android:text="Back To Home"
+		android:textColor="#000000"
+		android:textSize="14sp"
+		android:layout_width="160dp"
+		android:layout_height="43dp"
+		android:background="@drawable/buttonshape"
+		android:shadowColor="#A8A8A8"
+		android:shadowDx="0"
+		android:shadowDy="0"
+		android:shadowRadius="5"
+		android:layout_toRightOf="@id/btnCreateConsumer"
+/>
+   
+	
+</RelativeLayout>
+	
+</LinearLayout>
+
+</ScrollView>
+

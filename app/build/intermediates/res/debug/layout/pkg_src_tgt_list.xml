@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+   
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Package"/>
+    
+    <Spinner android:id="@+id/spinPackage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Source Rowid"/>
+    
+    <Spinner android:id="@+id/spinSourcerowid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Target Rowid"/>
+    
+    <Spinner android:id="@+id/spinTargetrowid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
+<!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/layout/pkg_src_tgt_list.xml -->

@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+   
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text=""/>
+    
+        <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text="select a Package to manager your data:"/>
+        
+            <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="monospace"
+        android:textColor="#00FF00"        
+        android:text=""/>
+    
+    <Spinner android:id="@+id/spinPackage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
+<!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/layout/package_main.xml -->

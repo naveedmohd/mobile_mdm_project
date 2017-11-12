@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+
+        <!-- Editext for Search -->
+<!-- 
+    <EditText android:id="@+id/u_inputSearch"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:hint="Search Rowidobject.."
+    	android:inputType="textVisiblePassword"/>
+     -->
+
+    <TextView
+        android:id="@+id/u_ridvalue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:typeface="monospace"
+        android:textColor="#00FF00"
+        
+        android:paddingTop="6dip"
+        android:paddingLeft="6dip"
+        android:textSize="17dip"
+        android:textStyle="bold" />
+
+    
+    
+	<!-- List View -->
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:typeface="monospace"
+        android:textColor="#00FF00"
+        android:layout_height="800dp"
+        android:scrollingCache="false" />
+    
+    <Button
+		android:id="@+id/btnUnMergeCandidates"
+		
+		android:text="UnMerge Records"
+		android:textColor="#000000"
+		android:textSize="14sp"
+		android:layout_gravity="center_horizontal"
+		android:layout_width="180dp"
+		android:layout_height="43dp"
+		android:background="@drawable/buttonshape"
+		android:shadowColor="#A8A8A8"
+		android:shadowDx="0"
+		android:shadowDy="0"
+		android:shadowRadius="5"
+	/>
+     
+    
+    
+</LinearLayout>
+
+</ScrollView>

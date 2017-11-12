@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <color name="custom_theme_color">#b0b0ff</color>
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="dark_blue">#0099CC</color>
+    <color name="dark_green">#669900</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="dark_yellow">#FF8A00</color>
+    <color name="light_blue">#A8DFF4</color>
+    <color name="light_green">#D3E992</color>
+    <color name="light_red">#FFAFAF</color>
+    <color name="light_yellow">#FFECC0</color>
+    <color name="pressed_color">#4d90fe</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/dimensions.xml -->
+    <eat-comment />
+
+    <dimen name="font_large">44dp</dimen>
+    <dimen name="font_medium">24dp</dimen>
+    <dimen name="font_small">10dp</dimen>
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Informatica MDM</string>
+    <string name="btn_finish_dialog_label">Close</string>
+    <string name="btn_start_dialog_label">Dialog</string>
+    <string name="consumerid"></string>
+    <string name="dialog">Dialog</string>
+    <string name="dialog_text">Simple Dialog</string>
+    <string name="dob"></string>
+    <string name="firstName"></string>
+    <string name="gender"></string>
+    <string name="hello">Hello World, AndroidTabLayoutActivity!</string>
+    <string name="lastName"></string>
+    <string name="middleName"></string>
+    <string name="objectid"></string>
+    <string name="save">Save</string>
+    <string name="suffix"></string>
+    <string name="telephone"></string>
+    <!-- From: file:/C:/Android_Projects/Android_Workspace/Innovation_Day/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
